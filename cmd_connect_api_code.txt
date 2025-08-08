@@ -1,0 +1,9 @@
+cd /d "D:\Egypt Housing Prices\app"
+.\.venv\Scripts\activate
+
+cd /d "D:\Egypt Housing Prices\app"
+
+pip install scikit-learn flask numpy
+
+python app.py
+
